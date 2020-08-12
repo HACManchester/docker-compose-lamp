@@ -1,6 +1,6 @@
 #  LAMP stack built with Docker Compose
 
-  
+## This is the LAMP Stack used by the majority of the ZeroCool Web Servers  
 
 ![Landing Page](https://preview.ibb.co/gOTa0y/LAMP_STACK.png)
 
